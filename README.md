@@ -1,7 +1,4 @@
-# computer_science_exam
-Exam of Special Lecture on Computer Science III
-
-# N-Queens Problem – Multiple Modeling and Solving Approaches
+# Exam of Special Lecture on Computer Science III ----- Samuele Moffa
 
 This repository contains the implementation and experimental evaluation of several approaches to solve the **N-Queens problem**, developed as part of the *Special Lectures on Computer Science III* course.
 
