@@ -11,6 +11,7 @@ The repository is organized into four main folders, each corresponding to a diff
 ├── CP_integer/\
 ├── LS/\
 ├── QUBO/\
+├── graph.py
 
 ---
 
@@ -73,6 +74,11 @@ Quadratic Unconstrained Binary Optimization (QUBO) formulation of the N-Queens p
   Experimental results, including solution energies, execution times, and decoded board configurations for different problem sizes.
 
 ---
+
+## Additional file
+
+`graph.py`
+Python script for the graphs generation
 
 ## Notes
 
